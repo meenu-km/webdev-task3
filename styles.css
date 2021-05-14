@@ -1,0 +1,238 @@
+body {
+  margin: 0%;
+}
+img {
+  height: 2.5cm;
+  width: 7cm;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1cm;
+}
+input[type="text"] {
+  display: flex;
+  top: 0.5cm;
+  box-sizing: border-box;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  height: 1cm;
+  width: 17cm;
+  border-radius: 20px;
+  border: 2px solid #ccc;
+  background: white;
+}
+.button1 {
+  background-color: rgb(241, 238, 238);
+  border-radius: 5px;
+  display: inline-block;
+  position: relative;
+  border: none;
+  cursor: pointer;
+  margin-left: 12cm;
+  top: 1.97cm;
+  padding: 8px;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-style: normal;
+  text-align: center;
+  color: black;
+}
+.button2 {
+  background-color: rgb(241, 238, 238);
+  border-radius: 5px;
+  display: inline-block;
+  position: relative;
+  border: none;
+  cursor: pointer;
+  margin-right: 5cm;
+  margin-left: 16cm;
+  margin-top: 0cm;
+  padding: 8px;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-style: normal;
+  text-align: center;
+  color: black;
+}
+.gmail {
+  color: black;
+  margin-left: -0.5cm;
+  position: relative;
+  top: 2cm;
+  padding-top: 0.5cm;
+}
+.image {
+  color: black;
+  margin-left: 1.5cm;
+  position: relative;
+  top: 2cm;
+  padding-top: 0.5cm;
+}
+a:link {
+  text-decoration: none;
+  position: absolute;
+  top: 6px;
+  color: black;
+}
+a:visited {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:active {
+  text-decoration: underline;
+}
+.signin {
+  border: none;
+  background-color: rgb(59, 38, 247);
+  text-align: center;
+  color: white;
+  padding: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+  top: 0.5cm;
+  position: absolute;
+  margin-left: 5cm;
+  cursor: pointer;
+}
+.buttonimage {
+  height: 0.7cm;
+  width: 0.7cm;
+  top: -5.8cm;
+  margin-left: 3.5cm;
+  margin-top: 1cm;
+  padding-top: 0cm;
+  position: relative;
+}
+.down {
+  background-color: rgb(235, 230, 230);
+  padding-bottom: 0.9cm;
+}
+.p2 {
+  margin-top: 5cm;
+  padding-top: 0.3cm;
+  padding-bottom: -2cm;
+  position: relative;
+  font-style: normal;
+  color: black;
+  padding-left: 1cm;
+}
+.p1 {
+  position: relative;
+  font-style: normal;
+  color: black;
+  padding-top: 0.2cm;
+  padding-left: 8cm;
+}
+.lang {
+  color: rgb(38, 34, 238);
+}
+.a {
+  padding-left: 0.2cm;
+  font-size: 14px;
+  position: relative;
+  font-style: normal;
+  padding-top: 0cm;
+}
+.b {
+  position: relative;
+  font-style: normal;
+  padding-top: 0cm;
+  padding-left: 1.4cm;
+  font-size: 14px;
+}
+.c {
+  position: relative;
+  font-style: normal;
+  padding-top: 0cm;
+  padding-left: 2.7cm;
+  font-size: 14px;
+}
+.d {
+  position: relative;
+  font-style: normal;
+  padding-top: 0cm;
+  padding-left: 4.3cm;
+  font-size: 14px;
+}
+.e {
+  position: relative;
+  font-style: normal;
+  padding-top: 0cm;
+  padding-left: 5.6cm;
+  font-size: 14px;
+}
+.f {
+  position: relative;
+  font-style: normal;
+  padding-top: 0cm;
+  padding-left: 7.2cm;
+  font-size: 14px;
+}
+.g {
+  position: relative;
+  font-style: normal;
+  padding-top: 0cm;
+  padding-left: 8.9cm;
+  font-size: 14px;
+}
+.h {
+  position: relative;
+  font-style: normal;
+  padding-top: 0cm;
+  padding-left: 10.4cm;
+  font-size: 14px;
+}
+.i {
+  position: relative;
+  font-style: normal;
+  padding-top: 0cm;
+  padding-left: 12.8cm;
+  font-size: 14px;
+}
+.about {
+  position: relative;
+  font-style: normal;
+  padding-top: 14.7cm;
+  padding-left: 1cm;
+}
+.advertising {
+  position: relative;
+  font-style: normal;
+  padding-top: 14.7cm;
+  padding-left: 3cm;
+}
+.business {
+  position: relative;
+  font-style: normal;
+  padding-top: 14.7cm;
+  padding-left: 6cm;
+}
+.searchwork {
+  position: relative;
+  font-style: normal;
+  padding-top: 14.7cm;
+  padding-left: 8.5cm;
+}
+.privacy {
+  position: relative;
+  font-style: normal;
+  padding-top: 14.7cm;
+  padding-left: 27cm;
+  color: black;
+}
+.terms {
+  position: relative;
+  font-style: normal;
+  padding-top: 14.7cm;
+  padding-left: 29cm;
+}
+.setting {
+  position: relative;
+  font-style: normal;
+  padding-top: 14.7cm;
+  padding-left: 31cm;
+  color: black;
+}
