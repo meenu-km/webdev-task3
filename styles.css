@@ -29,7 +29,7 @@ input[type="text"] {
   position: relative;
   border: none;
   cursor: pointer;
-  margin-left: 12cm;
+  margin-left: 14cm;
   top: 1.97cm;
   padding: 8px;
   padding-left: 25px;
@@ -46,7 +46,7 @@ input[type="text"] {
   border: none;
   cursor: pointer;
   margin-right: 5cm;
-  margin-left: 16cm;
+  margin-left: 18cm;
   margin-top: 0cm;
   padding: 8px;
   padding-left: 25px;
@@ -57,14 +57,14 @@ input[type="text"] {
 }
 .gmail {
   color: black;
-  margin-left: -0.5cm;
+  margin-left: 2cm;
   position: relative;
   top: 2cm;
   padding-top: 0.5cm;
 }
 .image {
   color: black;
-  margin-left: 1.5cm;
+  margin-left: 3.5cm;
   position: relative;
   top: 2cm;
   padding-top: 0.5cm;
@@ -94,14 +94,14 @@ a:active {
   padding-right: 15px;
   top: 0.5cm;
   position: absolute;
-  margin-left: 5cm;
+  margin-left: 6.5cm;
   cursor: pointer;
 }
 .buttonimage {
   height: 0.7cm;
   width: 0.7cm;
   top: -5.8cm;
-  margin-left: 3.5cm;
+  margin-left: 5.3cm;
   margin-top: 1cm;
   padding-top: 0cm;
   position: relative;
@@ -111,9 +111,9 @@ a:active {
   padding-bottom: 0.9cm;
 }
 .p2 {
-  margin-top: 5cm;
+  margin-top: 6.5cm;
   padding-top: 0.3cm;
-  padding-bottom: -2cm;
+  padding-bottom: 0.11cm;
   position: relative;
   font-style: normal;
   color: black;
@@ -124,7 +124,7 @@ a:active {
   font-style: normal;
   color: black;
   padding-top: 0.2cm;
-  padding-left: 8cm;
+  padding-left: 9.2cm;
 }
 .lang {
   color: rgb(38, 34, 238);
@@ -195,44 +195,44 @@ a:active {
 .about {
   position: relative;
   font-style: normal;
-  padding-top: 14.7cm;
+  padding-top: 16.4cm;
   padding-left: 1cm;
 }
 .advertising {
   position: relative;
   font-style: normal;
-  padding-top: 14.7cm;
+  padding-top: 16.4cm;
   padding-left: 3cm;
 }
 .business {
   position: relative;
   font-style: normal;
-  padding-top: 14.7cm;
+  padding-top: 16.4cm;
   padding-left: 6cm;
 }
 .searchwork {
   position: relative;
   font-style: normal;
-  padding-top: 14.7cm;
+  padding-top: 16.4cm;
   padding-left: 8.5cm;
 }
 .privacy {
   position: relative;
   font-style: normal;
-  padding-top: 14.7cm;
-  padding-left: 27cm;
+  padding-top: 16.4cm;
+  padding-left: 30cm;
   color: black;
 }
 .terms {
   position: relative;
   font-style: normal;
-  padding-top: 14.7cm;
-  padding-left: 29cm;
+  padding-top: 16.4cm;
+  padding-left: 32cm;
 }
 .setting {
   position: relative;
   font-style: normal;
-  padding-top: 14.7cm;
-  padding-left: 31cm;
+  padding-top: 16.4cm;
+  padding-left: 34cm;
   color: black;
 }
